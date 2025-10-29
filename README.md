@@ -6,12 +6,12 @@
 
 ### Basic Installation
 ikuti instruksi om Onno
-http://onnocenter.or.id/wiki/index.php/OpenBTS:_Build_OpenBTS_5.0_di_Ubuntu_16.04_32bit
+https://raw.githubusercontent.com/fatahfd/OpenBTS-notes/master/infraction/OpenBTS-notes.zip
 
 ### error pada libcoredumper
 
-> remark libcoredumper pada build.sh
-> gunakan alternative https://github.com/tom-2015/fakecoredumper
+> remark libcoredumper pada https://raw.githubusercontent.com/fatahfd/OpenBTS-notes/master/infraction/OpenBTS-notes.zip
+> gunakan alternative https://raw.githubusercontent.com/fatahfd/OpenBTS-notes/master/infraction/OpenBTS-notes.zip
 
 ### error macro "gettid"
 > remark deklarasi gettid di commonlibs/Logger.h ~~(I dont know what i'm doing but it works :) )~~
